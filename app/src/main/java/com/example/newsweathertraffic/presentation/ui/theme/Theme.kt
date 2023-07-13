@@ -1,4 +1,4 @@
-package com.example.newsweathertraffic.ui.theme
+package com.example.newsweathertraffic.presentation.ui.theme
 
 import android.app.Activity
 import android.os.Build

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "23791867768",
+    "project_id": "newsweathertraffic-8436f",
+    "storage_bucket": "newsweathertraffic-8436f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23791867768:android:3c64a62646724c2cee1a8d",
+        "android_client_info": {
+          "package_name": "com.example.newsweathertraffic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23791867768-0031v0c0540v9fco5l0md73f42f93v9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXnH36su4-4PapH9lDXXeiMr49In5owMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23791867768-0031v0c0540v9fco5l0md73f42f93v9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
